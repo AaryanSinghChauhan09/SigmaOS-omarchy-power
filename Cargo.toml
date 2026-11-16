@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-omarchy-power"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS omarchy-power component"
+
+[lib]
+name = "omarchy_power"
+path = "src/lib.rs"
