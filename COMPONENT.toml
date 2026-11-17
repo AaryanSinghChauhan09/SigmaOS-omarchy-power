@@ -3,7 +3,7 @@ name = "SigmaOS-omarchy-power"
 tier = 2
 stability = "beta"
 language = "rust"
-description = "Power manager for SigmaOS inspired by Omarchy Linux"
+description = "Power management"
 upstream = []
 
 [contract]
